@@ -1,0 +1,23 @@
+{
+  "name": "iitb-mi-vite-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": ".\\.tools\\node-v22.16.0-win-x64\\node.exe ./node_modules/vite/bin/vite.js",
+    "build": ".\\.tools\\node-v22.16.0-win-x64\\node.exe ./node_modules/vite/bin/vite.js build",
+    "preview": ".\\.tools\\node-v22.16.0-win-x64\\node.exe ./node_modules/vite/bin/vite.js preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "latest",
+    "@vitejs/plugin-react": "^5.1.1",
+    "framer-motion": "latest",
+    "lenis": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "latest",
+    "tailwindcss": "latest",
+    "vite": "^7.2.7"
+  },
+  "devDependencies": {}
+}

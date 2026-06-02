@@ -1,0 +1,10 @@
+node_modules
+dist
+.tools
+.tools-git
+.tools-gh
+*.log
+.env
+.env.local
+*.zip
+*.exe
